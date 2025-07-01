@@ -16,3 +16,6 @@ GS_HEADING_OFFSET = 0`
 you can edit and set your gs accordingly (MAKING GS LAT LON AUTONOMOUS IS UNDER DEVELOPMENT)
 
 - heading offset is direction your antenna is facing 0-North 90 west 180 south 
+
+This script will by default connect/listen to vehical at `udp:10.101.101.112:14550` change it to according address..
+Hearbeats are needed to stay connected to this script
